@@ -5,3 +5,6 @@ This is the official repository from development of the video-game called "The A
 Screenshots from the wireframes of the game :
 
 <img src="https://i.imgur.com/KZ2zZ7t.png" align="center">
+
+<img src="https://i.imgur.com/OQ191ee.png" align="center">
+
