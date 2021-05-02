@@ -4,7 +4,10 @@ This is the official repository from development of the video-game called "The A
 
 Screenshots from the wireframes of the game :
 
+
+Main Screen :
 <img src="https://i.imgur.com/KZ2zZ7t.png" align="center">
 
+Actions Button Pressed :
 <img src="https://i.imgur.com/OQ191ee.png" align="center">
 
