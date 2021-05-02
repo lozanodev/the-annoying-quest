@@ -6,6 +6,7 @@ Screenshots from the wireframes of the game :
 
 
 Main Screen :
+
 <img src="https://i.imgur.com/KZ2zZ7t.png" align="center">
 
 Actions Button Pressed :
